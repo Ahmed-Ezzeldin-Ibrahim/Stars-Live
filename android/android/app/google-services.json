@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131079001606",
+    "project_id": "stars-live-a2a65",
+    "storage_bucket": "stars-live-a2a65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131079001606:android:1f6e81309cb8d7f0add587",
+        "android_client_info": {
+          "package_name": "com.app.starslive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131079001606-fstt91mch5atjj0soli5ijc0ind6gugo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsyBcDy1CY8_-8mqjcrhTs_63sqgq5aA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131079001606-fstt91mch5atjj0soli5ijc0ind6gugo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
